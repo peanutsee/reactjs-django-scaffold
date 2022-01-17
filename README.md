@@ -1,5 +1,8 @@
 # OTS React.JS - DJango Web Application (UNTESTED)
 This repository servers as a template for creating React.JS - Django Web Applications. Note that the Django <strong>SECRET_KEY</strong> is being exposed here. Please create an entirely new project when starting your actual project.
+
+![Sample Solution Architecture](https://github.com/peanutsee/reactjs-django-boilerplate/blob/main/Sample%20Solution%20Architecture.png)
+
 ## File system
 
 Tree below shows the file system for the more important files for this application.
