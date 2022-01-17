@@ -113,3 +113,6 @@ Save frontend dependencies in package.json (when you forget to --save during ins
 ```bash 
 npm init
 ```
+
+## Authors
+- [Darryl See Wei Shen](https://github.com/peanutsee)
