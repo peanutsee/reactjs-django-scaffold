@@ -127,7 +127,7 @@ USE_TZ = True
 STATIC_URL = '/static/'
 MEDIA_URL = '/media/'
 
-STATICFILES_DIRS = [  # This will throw a warning 
+STATICFILES_DIRS = [  # This will throw a warning
     os.path.join(BASE_DIR, 'static'),
     os.path.join(BASE_DIR, 'frontend/build/static'),
 ]
